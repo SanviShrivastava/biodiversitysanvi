@@ -3,7 +3,7 @@ body {
     margin-left: 10px;
     padding: 0;
     box-sizing: border-box;
-    background-image: url("Images/bggif.gif");
+    background-image: url("bggif.gif");
 }
 
 img {float: right;width:50%;height:100%;border-radius: 10px;}
