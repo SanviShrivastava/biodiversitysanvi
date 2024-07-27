@@ -23,12 +23,12 @@ p.a{text-decoration-line: underline;text-decoration-style: double;text-decoratio
 p.b{
     background-color: lavender; 
     border-radius: 15px; 
-    text-align: center;
+    text-align: left;
     margin: 25px auto; 
     padding: 30px 30px; 
     padding-bottom: 50px; 
     color: grey;
-    width: 90%; 
+    width: 70%; 
     max-width: 600px; 
     height: auto;  }
 @media (min-width: 768px) {
