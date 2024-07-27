@@ -1,7 +1,7 @@
 body {
     font-family:serif;
     margin: 0;
-    background-image: url("Images/bggif.gif");text-align: left;margin-right:15px;}
+    background-image: url("bggif.gif");text-align: left;margin-right:15px;}
 li{padding-left: 0px;text-align: left;}
     footer {
         background-color: #f8b8b865;
