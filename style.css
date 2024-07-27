@@ -30,11 +30,11 @@ p.b{
     color: grey;
     width: 70%; 
     max-width: 600px; 
-    height: auto;  }
-@media (min-width: 768px) {
+    height: auto; @media (min-width: 768px) {
     .text-background {
         width: 40%; 
-        height: 120px; 
+        height: 120px;   }
+
   th {
     background-color:rgba(254, 233, 240, 0.785);
     color:rgba(130, 198, 200, 0.861); margin-left: 0px;
