@@ -21,10 +21,20 @@ footer {
 }
 p.a{text-decoration-line: underline;text-decoration-style: double;text-decoration-color: linen;color:grey}
 p.b{
-    height: 120px;
-    width: 40%;
-    background-color: lavender; border-radius: 15px; text-align: center;margin-left: 25px;padding:30px 30px ;padding-bottom: 50px; color:grey
-  }
+    background-color: lavender; 
+    border-radius: 15px; 
+    text-align: center;
+    margin: 25px auto; 
+    padding: 30px 30px; 
+    padding-bottom: 50px; 
+    color: grey;
+    width: 90%; 
+    max-width: 600px; 
+    height: auto;  }
+@media (min-width: 768px) {
+    .text-background {
+        width: 40%; 
+        height: 120px; 
   th {
     background-color:rgba(254, 233, 240, 0.785);
     color:rgba(130, 198, 200, 0.861); margin-left: 0px;
