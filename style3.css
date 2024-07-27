@@ -1,0 +1,34 @@
+body {
+    font-family:serif;
+    margin: 0;
+    background-image: url("Images/bggif.gif");text-align: left;margin-right:15px;}
+li{padding-left: 0px;text-align: left;}
+    footer {
+        background-color: #f8b8b865;
+        color:tan;
+        text-align: center;
+        padding: 5px 0;
+        width: 100%;
+        height: 5px;
+        bottom: 0; position: bottom; font-size: smaller;
+    }
+    a{color: black;}
+ img{float: right; border-radius: 15px;margin: 10px;max-height: 70px;}
+ p{font-size: 14px;text-align: left;margin: 10px;}
+ h1{color:#FFFDD0;text-shadow: 2px 4px 5px rgb(238, 187, 236);}
+ h3{color:rgba(231, 127, 127, 0.53);text-shadow:1px 2px 2px rgba(255, 190, 190, 0.881);}
+ h2{color:rgb(128, 175, 181);}
+ b{text-decoration-line: underline;text-decoration-color:khaki;}
+ h1.a{color:#FFFDD0;text-shadow: 2px 4px 5px rgb(238, 187, 236);text-align: center;letter-spacing: 2px;word-spacing: 1px;}
+ h1.b{color:#FFFDD0;text-shadow: 2px 4px 5px rgb(238, 187, 236);text-align: center;letter-spacing: 10px;word-spacing: 10px;}
+ p.a{font-size: 15px;color: grey;background-color: rgba(255, 250, 205, 0.326);letter-spacing: 2px;text-align: center;}
+ h4{font-size: larger;color:rgba(246, 176, 146, 0.685);text-shadow:2px 3px 4px cornsilk;}
+ ol.a{color:darkslategray;letter-spacing: 0.5px;}
+ img.a{float:left;max-height: 140px;margin-left: 100px}
+ img.b{float:center;max-height: 140px;margin:auto 173px;margin-top:10px ;}
+ img.c{float:right;max-height: 140px;}
+ p.b{background-color:honeydew;border-radius: 15px;padding: 10px;letter-spacing: 1px;position: absolute;left: 0px;width: 300px;text-align: center;}
+ p.c{background-color:cornsilk;border-radius: 15px;padding: 10px;letter-spacing: 1px;position: absolute;left: 37%;width: 300px;text-align: center;}
+ p.d{background-color:lavenderblush;border-radius: 15px;padding: 10px;letter-spacing: 1px;position: absolute; right:0px;width: 300px;text-align: center;}
+ ul.a{background-color: lavender;border-radius: 15px;padding:10px;position: absolute; right:9%;width: 1000px;margin-top: 25px;padding-left: 40px;padding-bottom: 40px;color:rgb(113, 113, 113)}
+ i.b{color:dimgray;font-size: larger;}
